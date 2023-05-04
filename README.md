@@ -1,3 +1,1 @@
-### Hi there 👋
-Carbon Emissions Management Software
-C-Smart
+# Carbon Emissions Management Software <br> C-Smart
