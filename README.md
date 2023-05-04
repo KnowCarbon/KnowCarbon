@@ -5,7 +5,7 @@
 * ### At the same time, one of KnowCarbon's products, Enterprise Carbon management product(C-Smart), will be one of the platform service providers, providing enterprises with one-stop "AIoT+SaaS" services of carbon audit and carbon asset management. Also, linking with third-party professional institutions to issue certificates. Through the ability of blockchain security computing, C-smart uploading the whole process carbon data to the blockchain, which helps enterprises to realize the visualization and unified platform management of carbon emissions under the data security. Enterprise Carbon makes use of blockchain's characteristics of tamper-resistant and traceability to make the process of carbon emission reduction, supervision and audit of enterprises to keep a trace and record on blockchain. The process is open and transparent, and the relevant records can be traced and verified at any time, replacing manual carbon audits and saving costs while improving the transparency of carbon audits. <br> 
 * ### KnowCarbon, as a carbon audit service provider and platform creator, will develop from point to chain and link all parties based on web3 to help global carbon neutrality achieve mutual trust and mutual identity.<br><br>
 ## Software Display
-### Product Features<br>
+### Description<br>
 * SaaS method, real-time data availability under the network
 * Real-time data monitoring, analysis and forecasting; key points analysis of the production of carbon elements
 * Certification from accreditation organization, can come out according to the algorithm covers the results and provide certified labels and certificates<br>
