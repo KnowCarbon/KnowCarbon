@@ -13,9 +13,10 @@
 
 ![Product Features](https://user-assets.sxlcdn.com/images/979727/FrjytAufFLVAF3P3es4V4tpkqPXl.png?imageMogr2/strip/auto-orient/thumbnail/1200x9000%3E/quality/90!/format/png)<br><br><br>
 
-### KnowCarbon Hub Platform
+### Carbon cloud
 * It is based on web3 system to ensure the sovereignty of data.
 * Issue vouchers through blockchain to ensure reliable and traceable data.
 * By issuing vouchers, the upstream and downstream can quickly establish carbon data intercommunication and reduce the cost waste
 * It has been recognized by many parties through the formulation of zero carbon factory standards
-* Provide a lending basis for green finance institutions
+* Provide a lending basis for green finance institutions<br><br>
+![Product Features](https://raw.githubusercontent.com/KnowCarbon/KnowCarbon/main/07c0ba6db58a52ef2c860a04f7b5b94.jpg)<br>
