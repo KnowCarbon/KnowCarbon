@@ -8,6 +8,14 @@
 ### Description<br>
 * SaaS method, real-time data availability under the network
 * Real-time data monitoring, analysis and forecasting; key points analysis of the production of carbon elements
-* Certification from accreditation organization, can come out according to the algorithm covers the results and provide certified labels and certificates<br>
+* Certification from accreditation organization, can come out according to the algorithm covers the results and provide certified labels and certificates
+* Uploading the whole process carbon data to the blockchain<br>
 
-![Product Features](https://user-assets.sxlcdn.com/images/979727/FrjytAufFLVAF3P3es4V4tpkqPXl.png?imageMogr2/strip/auto-orient/thumbnail/1200x9000%3E/quality/90!/format/png)
+![Product Features](https://user-assets.sxlcdn.com/images/979727/FrjytAufFLVAF3P3es4V4tpkqPXl.png?imageMogr2/strip/auto-orient/thumbnail/1200x9000%3E/quality/90!/format/png)<br><br><br>
+
+### KnowCarbon Hub Platform
+* It is based on web3 system to ensure the sovereignty of data.
+* Issue vouchers through blockchain to ensure reliable and traceable data.
+* By issuing vouchers, the upstream and downstream can quickly establish carbon data intercommunication and reduce the cost waste
+* It has been recognized by many parties through the formulation of zero carbon factory standards
+* Provide a lending basis for green finance institutions
