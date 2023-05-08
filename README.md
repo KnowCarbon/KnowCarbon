@@ -17,6 +17,5 @@
 * Based on web3 and blockchain technology to ensure the sovereignty of data.
 * Issue credentials through blockchain to ensure data credibility and traceability.
 * Establish carbon data interoperability between upstream and downstream of enterprises.
-* It has been recognized by many parties through the formulation of zero carbon factory standards
 * Provide more credible carbon data for financial institutions.<br><br>
 ![Product Features](https://raw.githubusercontent.com/KnowCarbon/KnowCarbon/main/49dda1fe7b01147a9e9a1fac5420c7c.jpg)<br>
