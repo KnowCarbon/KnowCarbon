@@ -14,9 +14,9 @@
 ![Product Features](https://user-assets.sxlcdn.com/images/979727/FrjytAufFLVAF3P3es4V4tpkqPXl.png?imageMogr2/strip/auto-orient/thumbnail/1200x9000%3E/quality/90!/format/png)<br><br><br>
 
 ### Carbon hub
-* It is based on web3 system to ensure the sovereignty of data.
-* Issue vouchers through blockchain to ensure reliable and traceable data.
-* By issuing vouchers, the upstream and downstream can quickly establish carbon data intercommunication and reduce the cost waste
+* Based on web3 and blockchain technology to ensure the sovereignty of data.
+* Issue credentials through blockchain to ensure data credibility and traceability.
+* Establish carbon data interoperability between upstream and downstream of enterprises.
 * It has been recognized by many parties through the formulation of zero carbon factory standards
-* Provide a lending basis for green finance institutions<br><br>
-![Product Features](https://raw.githubusercontent.com/KnowCarbon/KnowCarbon/main/07c0ba6db58a52ef2c860a04f7b5b94.jpg)<br>
+* Provide more credible carbon data for financial institutions.<br><br>
+![Product Features](https://raw.githubusercontent.com/KnowCarbon/KnowCarbon/main/49dda1fe7b01147a9e9a1fac5420c7c.jpg)<br>
